@@ -1,5 +1,5 @@
 # All IP addresses used by Internet-Measurement.com
-# Last update: 11-07-20202
+# Last update: 29-07-20202
 #
 68.183.159.229
 104.248.203.191
